@@ -1,5 +1,5 @@
 # Guaranteed Conformance of Neurosymbolic Dynamics Models to Natural Constraints
-This repository contains the code for our paper.
+This repository contains the code for our paper at https://arxiv.org/abs/2212.01346.
 
 Our constrained neurosymbolic models outperform the Vanilla and Augmented Lgarnagina methods with guarantees on conformance to natural constraints in three case studies
 * **CARLA** -- Conformance of a vehicle model to unicycle dynamics with emphasis on no drift at-rest.
