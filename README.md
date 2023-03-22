@@ -1,3 +1,7 @@
+
+# Update (March 2023)
+Our latest code can be found at https://github.com/kaustubhsridhar/Constrained_Models.
+
 # Guaranteed Conformance of Neurosymbolic Dynamics Models to Natural Constraints
 This repository contains the code for our paper at https://arxiv.org/abs/2212.01346.
 
